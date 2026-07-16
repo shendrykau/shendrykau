@@ -1,4 +1,4 @@
-# Siargei Shendrykau
+# Larysa Shendrykava
 
 Game Developer
 
@@ -10,4 +10,4 @@ Freelance game development services.
 - Online multiplayer games
 
 ## Contact
-Email: sergei.shendrikov@gmail.com
+Email: shendrikovvadim23@gmail.com
